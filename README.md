@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 # NetVulnScanner
 
 NetVulnScanner is a lightweight, non-intrusive vulnerability scanner written in Python. It scans a target website, domain, or IP address for exposed TCP services, common web security misconfigurations, weak TLS settings, and a small set of informational service-level risks.
